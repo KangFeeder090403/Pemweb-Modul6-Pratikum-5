@@ -1,0 +1,26 @@
+button {
+  width: 80;
+  height: 80;
+  border: solid;
+  font-size: 25;
+}
+
+.textinput {
+  width: 335;
+  height: 50;
+  font-size: 25;
+  color: #acb5af;
+  border: solid;
+}
+
+.main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: solid 4px;
+  background: linear-gradient(to right, green, red); 
+  padding: 20px;
+  border-radius: 10px; 
+}
+
